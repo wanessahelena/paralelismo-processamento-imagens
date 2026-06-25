@@ -102,7 +102,7 @@ As imagens processadas são salvas em uma pasta de saída para posterior inspeç
 
 ---
 
-## 📈 Gráficos gerados
+## Gráficos gerados
 
 O notebook gera gráficos para análise comparativa entre as abordagens, incluindo:
 
@@ -119,7 +119,7 @@ results/
 
 ---
 
-## 🛠️ Tecnologias e bibliotecas utilizadas
+## Tecnologias e bibliotecas utilizadas
 
 * **Python**
 * **OpenCV**
@@ -132,7 +132,7 @@ results/
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 ### 1. Clone este repositório
 
@@ -160,30 +160,9 @@ No notebook, esse arquivo é copiado para a pasta correta antes do download do d
 Abra o arquivo `.ipynb` em um ambiente como:
 
 * **Jupyter Notebook**
-* **JupyterLab**
 * **Google Colab**
 
 e execute as células em ordem.
-
----
-
-## Estrutura esperada do projeto
-
-```bash
-ppd-processamento-imagens-eurosat/
-│
-├── analise_desempenho_eurosat_ppd.ipynb
-├── README.md
-├── resultados.csv
-├── resultados_final.csv
-├── imagens_processadas/
-└── results/
-```
-
-> Dependendo da execução, algumas pastas e arquivos são criados automaticamente pelo notebook.
-
----
-
 
 ## Autoria
 
